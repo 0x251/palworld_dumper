@@ -1,4 +1,5 @@
 # Palworld offset Dumper in python using pygg
+**This Dumper requires Pygg for Aob scanning and RPM https://github.com/0x251/pygg**
 - Gworld (uint32)
 - GObject (uint32)
 - FName (uint32) 
@@ -19,5 +20,7 @@ Offsets will be logged to **offsets.log** with a timestamp and there type
             "Tick": b"\x48\x89\x5C\x24\x00\x57\x48\x83\xEC\x60\x48\x8B\xF9\xE8\x00\x00\x00\x00\x48\x8B"
         }
 ```
+![image](https://github.com/0x251/palworld_dumper/assets/159673477/7226fe68-0f90-4791-bd8f-4bf3b971d1b3)
 
-**This Dumper requires Pygg for Aob scanning and RPM https://github.com/0x251/pygg**
+
+
